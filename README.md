@@ -23,7 +23,7 @@ jupyter notebook notebook.ipynb
 ````
 4. Follow the file steps in order to run the notebook python code
 
-If you want to execute the notebook from your ``terminal`` using the execute subcommand:
+If you want to execute the notebook from your ``terminal`` use the execute subcommand:
 ````
 jupyter execute notebook.ipynb
 ````

@@ -6,6 +6,7 @@ This repository contains the code, the final report and the presentation for pro
 
 The aim of the project is to achive the ball tracking in a volleyball scenario without the use of state of the art deep learning architectures.
 
+The project is developed by @github/lorenzialessandro and @gihub/LuCazzola 
 
 
 ## Installation and use 

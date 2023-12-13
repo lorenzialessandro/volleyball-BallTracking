@@ -1,15 +1,18 @@
-# Ball tracking in a Volleyball environment
+# Ball tracking in a Volleyball environment 🏐
 
 ## Introduction
 
 This repository contains the code, the final report and the presentation for project of the course "Signal, Image &amp; Video" - MSc in Artificial Intelligence Systems - University of Trento. 
 
-The aim of the project is to achive the ball tracking in a volleyball scenario without the use of state of the art deep learning architectures.
+The aim of the project is to achieve the ball tracking in a volleyball scenario without the use of state of the art deep learning architectures.
 
 The project is developed by [@lorenzialessandro](https://github.com/lorenzialessandro) and [@LuCazzola](https://github.com/LuCazzola).
 
 
 ## Installation and use 
+
+Clone the folder through ``git`` or download (and extract) the ``.zip`` file. Then follow these steps: 
+
 1. Install the requirements
 ````
 pip install -r requirements.txt

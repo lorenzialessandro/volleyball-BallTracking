@@ -1,1 +1,11 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Luca"
+  given-names: "Cazzola"
+- family-names: "Alessandro"
+  given-names: "Lorenzi"
+title: "volleyball-BallTracking"
+version: 0.1
+date-released: 2023-12-15
+url: "https://github.com/lorenzialessandro/volleyball-BallTracking"

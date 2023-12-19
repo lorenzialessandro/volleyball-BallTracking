@@ -35,7 +35,7 @@ If you want to execute the notebook from your terminal use the ``execute`` subco
 jupyter execute notebook.ipynb
 ````
 
-In addition to the code, in the folder there is the [presentation](https://github.com/lorenzialessandro/volleyball-BallTracking/blob/main/presentation.pdf) of the project and the summary [report](https://github.com/lorenzialessandro/volleyball-BallTracking/blob/main/report.pdf).
+In addition to the code, in the folder there is the [presentation](https://github.com/lorenzialessandro/volleyball-BallTracking/blob/65113b6016a0e64e32ba148a26f783aec6d2a1be/docs/presentation.pdf) of the project and the summary [report](https://github.com/lorenzialessandro/volleyball-BallTracking/blob/65113b6016a0e64e32ba148a26f783aec6d2a1be/docs/report.pdf).
 
 <br>
 

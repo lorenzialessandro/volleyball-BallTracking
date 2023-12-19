@@ -8,7 +8,7 @@ The aim of the project is to achieve the ball tracking in a volleyball scenario 
 
 The project is developed by [@lorenzialessandro](https://github.com/lorenzialessandro) and [@LuCazzola](https://github.com/LuCazzola).
 
-
+<br>
 ## Installation and usage 
 
 Clone the folder through ``git`` or download (and extract) the ``.zip`` file. Then follow these steps: 
@@ -35,7 +35,6 @@ jupyter execute notebook.ipynb
 In addition to the code, in the folder there is the [presentation](https://github.com/lorenzialessandro/volleyball-BallTracking/blob/main/presentation.pdf) of the project and the summary [report](https://github.com/lorenzialessandro/volleyball-BallTracking/blob/main/report.pdf).
 
 <br>
-
 ## YOLOv5 comparison
 
 A Yolov5 object detector has been trained on the same task and dataset. To see it's perfermances :

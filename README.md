@@ -8,6 +8,8 @@ The aim of the project is to achieve the ball tracking in a volleyball scenario 
 
 The project is developed by [@lorenzialessandro](https://github.com/lorenzialessandro) and [@LuCazzola](https://github.com/LuCazzola).
 
+[[https://github.com/lorenzialessandro/volleyball-BallTracking/blob/d5022939079e6d6686b8c4ad09d79d3ad0e02e52/docs/example-img.jpg]]
+
 <br>
 
 ## Installation and usage 

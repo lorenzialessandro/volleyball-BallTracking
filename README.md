@@ -49,7 +49,7 @@ pip install -r requirements.txt  # install
 ````
 2. Run detection
 ````
-python3 detect.py --weights ../YOLOv5_weights.pt --view-img --conf-thres 0.5  --source ../videos/vid3-cut.mp4
+python3 detect.py --weights ../models/YOLOv5_weights.pt --view-img --conf-thres 0.5  --source ../videos/vid3-cut.mp4
 ````
 
 

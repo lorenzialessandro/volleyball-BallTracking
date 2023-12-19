@@ -34,7 +34,9 @@ jupyter execute notebook.ipynb
 
 In addition to the code, in the folder there is the [presentation](https://github.com/lorenzialessandro/volleyball-BallTracking/blob/main/presentation.pdf) of the project and the summary [report](https://github.com/lorenzialessandro/volleyball-BallTracking/blob/main/report.pdf).
 
-### YOLOv5 comparison
+<br>
+
+## YOLOv5 comparison
 
 A Yolov5 object detector has been trained on the same task and dataset. To see it's perfermances :
 

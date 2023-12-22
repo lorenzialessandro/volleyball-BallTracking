@@ -12,6 +12,19 @@ The project is developed by [@lorenzialessandro](https://github.com/lorenzialess
 
 <br>
 
+## Folder structure
+The structure of the main files is as follows: 
+````
+.
+├── notebook.ipynb          # Main notebook code
+├── docs                    
+│   ├── presentation.pdf   
+│   └── report.pdf        
+├── models                  # PCA, Random Forest and YOLO (see later)
+│   └── ...
+└── ...
+````
+
 ## Installation and usage 
 
 Clone the folder through ``git`` or download (and extract) the ``.zip`` file. Then follow these steps: 
